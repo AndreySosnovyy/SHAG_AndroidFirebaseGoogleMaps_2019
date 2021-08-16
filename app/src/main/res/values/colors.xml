@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="pink_start">#FF9FE6</color>
+    <color name="pink_end">#FF00BD</color>
+    <color name="top">#02c39a</color>
+    <color name="back">#FCFCFC</color>
+    <color name="back_dark">#F5F5F5</color>
+
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPolyLineBlue">#29AAE1</color>
+    <color name="colorPolyLineOrange">#F8A15B</color>
+    <color name="colorPolyLineViolet">#AC4298</color>
+    <color name="colorPolyLineGreen">#57BA48</color>
+    <color name="colorPolyLinePink">#ED4C9B</color>
+    <color name="colorPolyLineGray">#838383</color>
+    <color name="colorMainMarker">#253F8E</color>
+    <color name="White">#fff</color>
+</resources>
